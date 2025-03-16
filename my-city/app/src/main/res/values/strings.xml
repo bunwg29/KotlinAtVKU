@@ -1,0 +1,87 @@
+<resources>
+    <string name="state_name">Barinas</string>
+    <string name="recommendations_text">Gợi ý</string>
+    <string name="recommended_place">Địa điểm đề xuất</string>
+
+    <string name="back_button">Quay lại</string>
+
+    <string name="app_name">Thành phố của tôi</string>
+    <string name="coffee_shops">Quán cà phê</string>
+    <string name="restaurants">Nhà hàng</string>
+    <string name="kid_places">Địa điểm cho trẻ em</string>
+    <string name="parks">Công viên</string>
+    <string name="shopping_centers">Trung tâm mua sắm</string>
+
+    <string name="categories_text">Danh mục</string>
+
+    <!-- Quán cà phê -->
+    <string name="coffe_shop_title_1">Café El Frailejon</string>
+    <string name="coffe_shop_detail_1">
+        Một nơi ấm cúng với nhiều loại cà phê và bánh ngọt. Hoàn hảo để thư giãn và đọc sách.
+    </string>
+    <string name="coffe_shop_title_2">Torrefactora Café Sublime CA</string>
+    <string name="coffe_shop_detail_2">
+        Thưởng thức không gian yên tĩnh cùng với các loại đồ uống và món ăn nhẹ tuyệt vời ngay tại trung tâm Barinas.
+    </string>
+    <string name="coffe_shop_title_3">Mundo Novo Café C.A</string>
+    <string name="coffe_shop_detail_3">
+        Một địa điểm lý tưởng để gặp gỡ bạn bè và thưởng thức cà phê ngon.
+    </string>
+
+    <!-- Nhà hàng -->
+    <string name="restaurant_title_1">Saga Cachapas</string>
+    <string name="restaurant_detail_1">
+        Nổi tiếng với món bánh ngô Cachapas thơm ngon và không gian ấm cúng cho gia đình.
+    </string>
+    <string name="restaurant_title_2">Miami</string>
+    <string name="restaurant_detail_2">
+        Một nhà hàng nổi tiếng với nhiều món ăn truyền thống của Venezuela.
+    </string>
+    <string name="restaurant_title_3">Restaurant Manta la casa Ecuatoriana</string>
+    <string name="restaurant_detail_3">
+        Phục vụ các món ăn đặc trưng của Ecuador trong một không gian dễ chịu.
+    </string>
+
+    <!-- Địa điểm cho trẻ em -->
+    <string name="kid_friendly_place_title_1">Công viên Moromoy</string>
+    <string name="kid_friendly_place_detail_1">
+        Một công viên với nhiều trò chơi và hoạt động thú vị cho trẻ em vui chơi an toàn.
+    </string>
+    <string name="kid_friendly_place_title_2">Quỹ vườn bách thảo Unellez</string>
+    <string name="kid_friendly_place_detail_2">
+        Một địa điểm lý tưởng cho các gia đình đi dạo và khám phá hệ thực vật địa phương.
+    </string>
+    <string name="kid_friendly_place_title_3">Công viên trẻ em</string>
+    <string name="kid_friendly_place_detail_3">
+        Một không gian được thiết kế riêng cho trẻ nhỏ vui chơi và giải trí.
+    </string>
+
+    <!-- Công viên -->
+    <string name="park_title_1">Công viên Santos Luzardo</string>
+    <string name="park_detail_1">
+        Một công viên thiên nhiên tuyệt đẹp, nơi bạn có thể đi dạo, tổ chức picnic và chiêm ngưỡng hệ động thực vật địa phương.
+    </string>
+    <string name="park_title_2">Vườn thú Barinas</string>
+    <string name="park_detail_2">
+        Một địa điểm dành riêng cho bảo tồn và trưng bày nhiều loài động vật khác nhau.
+    </string>
+    <string name="park_title_3">Công viên Moromoy</string>
+    <string name="park_detail_3">
+        Một công viên xanh với nhiều khu vực dành cho các hoạt động ngoài trời.
+    </string>
+
+    <!-- Trung tâm mua sắm -->
+    <string name="shopping_center_title_1">Trung tâm thương mại Barinas Plaza</string>
+    <string name="shopping_center_detail_1">
+        Một trung tâm mua sắm với nhiều cửa hàng và khu vui chơi giải trí dành cho cả gia đình.
+    </string>
+    <string name="shopping_center_title_2">Trung tâm thương mại Los Llanos</string>
+    <string name="shopping_center_detail_2">
+        Cung cấp nhiều lựa chọn mua sắm, nhà hàng và khu vui chơi giải trí.
+    </string>
+    <string name="shopping_center_title_3">Trung tâm thương mại Barinas Express</string>
+    <string name="shopping_center_detail_3">
+        Một nơi lý tưởng để mua sắm và thưởng thức các món ăn ngon.
+    </string>
+
+</resources>
