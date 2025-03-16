@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Thirty Days of Wellness</string>
+
+    <string name="day_one">Day 1</string>
+    <string name="day_one_exercise">Build muscle and tone your body</string>
+    <string name="day_one_exercise_description">Incorporate strength training exercises using dumbbells to increase muscle mass and sculpt your physique.</string>
+
+    <string name="day_two">Day 2</string>
+    <string name="day_two_exercise">Boost cardiovascular endurance</string>
+    <string name="day_two_exercise_description">Engage in high-intensity interval training (HIIT) to improve your cardiovascular fitness and burn calories effectively.</string>
+
+    <string name="day_three">Day 3</string>
+    <string name="day_three_exercise">Enhance flexibility and mobility</string>
+    <string name="day_three_exercise_description">Practice yoga or Pilates exercises to improve flexibility, enhance joint mobility, and promote overall body balance.</string>
+
+    <string name="day_four">Day 4</string>
+    <string name="day_four_exercise">Develop core strength</string>
+    <string name="day_four_exercise_description">Focus on core exercises such as planks and crunches to strengthen your abdominal muscles and improve stability.</string>
+
+    <string name="day_five">Day 5</string>
+    <string name="day_five_exercise">Improve agility and coordination</string>
+    <string name="day_five_exercise_description">Incorporate agility drills and coordination exercises like ladder drills and cone exercises to enhance your body\'s agility and coordination.</string>
+
+    <string name="day_six">Day 6</string>
+    <string name="day_six_exercise">Relax and recover</string>
+    <string name="day_six_exercise_description">Engage in a restorative activity such as gentle stretching, meditation, or a relaxing walk to allow your body to recover and rejuvenate.</string>
+
+    <string name="day_seven">Day 7</string>
+    <string name="day_seven_exercise">Challenge your endurance</string>
+    <string name="day_seven_exercise_description">Push your limits with a long-distance run or a challenging cycling session to test and improve your endurance level.</string>
+
+    <string name="day_eight">Day 8</string>
+    <string name="day_eight_exercise">Strengthen upper body</string>
+    <string name="day_eight_exercise_description">Focus on exercises that target your upper body, including push-ups, pull-ups, and shoulder presses, to build strength and definition.</string>
+
+    <string name="day_nine">Day 9</string>
+    <string name="day_nine_exercise">Engage in a full-body workout</string>
+    <string name="day_nine_exercise_description">Combine different exercises from various muscle groups to engage your entire body and promote overall strength and conditioning.</string>
+
+    <string name="day_ten">Day 10</string>
+    <string name="day_ten_exercise">Increase flexibility with stretching</string>
+    <string name="day_ten_exercise_description">Dedicate time to stretching exercises that target major muscle groups to improve flexibility, prevent injuries, and enhance range of motion.</string>
+
+    <string name="day_eleven">Day 11</string>
+    <string name="day_eleven_exercise">Boost lower body strength</string>
+    <string name="day_eleven_exercise_description">Perform exercises like squats, lunges, and leg presses to strengthen your lower body muscles, including the glutes, quads, and hamstrings.</string>
+
+    <string name="day_twelve">Day 12</string>
+    <string name="day_twelve_exercise">Improve balance and stability</string>
+    <string name="day_twelve_exercise_description">Incorporate exercises like single-leg stands, balance boards, or yoga poses that challenge your balance and improve overall stability.</string>
+
+    <string name="day_thirteen">Day 13</string>
+    <string name="day_thirteen_exercise">Cardio kickboxing workout</string>
+    <string name="day_thirteen_exercise_description">Get your heart rate up and burn calories with a high-energy cardio kickboxing routine that combines punches, kicks, and bodyweight movements.</string>
+
+    <string name="day_fourteen">Day 14</string>
+    <string name="day_fourteen_exercise">Enhance core stability</string>
+    <string name="day_fourteen_exercise_description">Engage in exercises like planks, Russian twists, and stability ball exercises to strengthen your core muscles and improve stability.</string>
+
+    <string name="day_fifteen">Day 15</string>
+    <string name="day_fifteen_exercise">Increase upper body flexibility</string>
+    <string name="day_fifteen_exercise_description">Incorporate stretches targeting your arms, shoulders, and chest to improve upper body flexibility and range of motion.</string>
+
+    <string name="day_sixteen">Day 16</string>
+    <string name="day_sixteen_exercise">Full-body circuit training</string>
+    <string name="day_sixteen_exercise_description">Perform a series of exercises targeting different muscle groups with minimal rest in between to challenge your entire body and improve overall fitness.</string>
+
+    <string name="day_seventeen">Day 17</string>
+    <string name="day_seventeen_exercise">Focus on functional movements</string>
+    <string name="day_seventeen_exercise_description">Incorporate functional exercises such as squats, deadlifts, and kettlebell swings to improve strength, mobility, and overall movement patterns.</string>
+
+    <string name="day_eighteen">Day 18</string>
+    <string name="day_eighteen_exercise">Try a dance workout</string>
+    <string name="day_eighteen_exercise_description">Get moving and have fun with a dance workout that combines cardio, rhythm, and coordination to improve fitness and uplift your mood.</string>
+
+    <string name="day_nineteen">Day 19</string>
+    <string name="day_nineteen_exercise">Increase cardiovascular endurance</string>
+    <string name="day_nineteen_exercise_description">Engage in activities like running, swimming, or cycling to improve your cardiovascular fitness and endurance capacity.</string>
+
+    <string name="day_twenty">Day 20</string>
+    <string name="day_twenty_exercise">Sculpt and strengthen your abs</string>
+    <string name="day_twenty_exercise_description">Target your abdominal muscles with exercises such as crunches, planks, and bicycle twists to tone and strengthen your core.</string>
+
+    <string name="day_twenty_one">Day 21</string>
+    <string name="day_twenty_one_exercise">Boost lower body power</string>
+    <string name="day_twenty_one_exercise_description">Incorporate explosive exercises like jump squats, box jumps, and power lunges to increase lower body power and improve athletic performance.</string>
+
+    <string name="day_twenty_two">Day 22</string>
+    <string name="day_twenty_two_exercise">Rest and recover</string>
+    <string name="day_twenty_two_exercise_description">Take a day off from intense workouts to allow your body to recover, rejuvenate, and prevent overtraining.</string>
+
+    <string name="day_twenty_three">Day 23</string>
+    <string name="day_twenty_three_exercise">Pilates for core strength</string>
+    <string name="day_twenty_three_exercise_description">Engage in Pilates exercises that focus on core strength, stability, and body alignment to enhance your overall fitness and posture.</string>
+
+    <string name="day_twenty_four">Day 24</string>
+    <string name="day_twenty_four_exercise">HIIT for fat burning</string>
+    <string name="day_twenty_four_exercise_description">Perform high-intensity interval training (HIIT) workouts that combine bursts of intense exercise with short recovery periods to maximize calorie burn and fat loss.</string>
+
+    <string name="day_twenty_five">Day 25</string>
+    <string name="day_twenty_five_exercise">Yoga for flexibility and relaxation</string>
+    <string name="day_twenty_five_exercise_description">Practice yoga poses and sequences to improve flexibility, increase mindfulness, and promote relaxation and stress relief.</string>
+
+    <string name="day_twenty_six">Day 26</string>
+    <string name="day_twenty_six_exercise">Strength training for upper body</string>
+    <string name="day_twenty_six_exercise_description">Focus on exercises that target your upper body muscles, including the chest, back, shoulders, and arms, to build strength and definition.</string>
+
+    <string name="day_twenty_seven">Day 27</string>
+    <string name="day_twenty_seven_exercise">Improve balance with yoga</string>
+    <string name="day_twenty_seven_exercise_description">Incorporate yoga poses that challenge your balance, stability, and coordination to enhance body awareness and improve overall balance.</string>
+
+    <string name="day_twenty_eight">Day 28</string>
+    <string name="day_twenty_eight_exercise">Full-body strength workout</string>
+    <string name="day_twenty_eight_exercise_description">Engage in compound exercises that target multiple muscle groups simultaneously to improve overall strength and functional fitness.</string>
+
+    <string name="day_twenty_nine">Day 29</string>
+    <string name="day_twenty_nine_exercise">Increase cardio endurance with cycling</string>
+    <string name="day_twenty_nine_exercise_description">Hop on a stationary bike or hit the road for a cycling session that challenges your cardiovascular endurance and strengthens your lower body muscles.</string>
+
+    <string name="day_thirty">Day 30</string>
+    <string name="day_thirty_exercise">Celebrate your achievements</string>
+    <string name="day_thirty_exercise_description">Take a moment to reflect on your progress, celebrate your fitness journey, and set new goals for continued growth and improvement.</string>
+</resources>
